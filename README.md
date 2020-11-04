@@ -1,5 +1,5 @@
-Frontend Deployment: https://tinder-clone-350c4.web.app/
-Backend Deployment: https://tinder-backend-cavin.herokuapp.com/
+Frontend Deployment: https://tinder-clone-350c4.web.app/ <br>
+Backend Deployment: https://tinder-backend-cavin.herokuapp.com/ <br>
 
 
 
